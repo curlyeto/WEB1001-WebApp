@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VS5AGPAqUKOOhmItWahWj5htQR9I2iA0DaPwRWFLPt2M2uRXzUudy+ckA4v/5bJf7dm79C8SKYk+8CY4aPvUCg==",
+  "dgSpecHash": "ySr2H+XCeKkR9ZAMHBinYXbSdefo+SqJHskAd1yHvMl8kJgxEaurZjLS+7n9VxLufP8b6VhlSBp9fQHtBd7pjw==",
   "success": true,
-  "projectFilePath": "/Users/ertugrul/Projects/MyFirstApp/MyFirstApp/MyFirstApp.csproj",
+  "projectFilePath": "/Users/ertugrul/Projects/WEB1001-WebApp/MyFirstApp/MyFirstApp.csproj",
   "expectedPackageFiles": [
     "/Users/ertugrul/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/ertugrul/.nuget/packages/microsoft.aspnetcore.razor.language/6.0.11/microsoft.aspnetcore.razor.language.6.0.11.nupkg.sha512",

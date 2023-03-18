@@ -9073,11 +9073,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ertugrul/Projects/MyFirstApp/MyFirstApp/MyFirstApp.csproj",
+      "projectUniqueName": "/Users/ertugrul/Projects/WEB1001-WebApp/MyFirstApp/MyFirstApp.csproj",
       "projectName": "MyFirstApp",
-      "projectPath": "/Users/ertugrul/Projects/MyFirstApp/MyFirstApp/MyFirstApp.csproj",
+      "projectPath": "/Users/ertugrul/Projects/WEB1001-WebApp/MyFirstApp/MyFirstApp.csproj",
       "packagesPath": "/Users/ertugrul/.nuget/packages/",
-      "outputPath": "/Users/ertugrul/Projects/MyFirstApp/MyFirstApp/obj/",
+      "outputPath": "/Users/ertugrul/Projects/WEB1001-WebApp/MyFirstApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ertugrul/.nuget/NuGet/NuGet.Config"

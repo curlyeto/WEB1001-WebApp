@@ -9,37 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyFirstApp
 build_property.RootNamespace = MyFirstApp
-build_property.ProjectDir = /Users/ertugrul/Projects/MyFirstApp/MyFirstApp/
+build_property.ProjectDir = /Users/ertugrul/Projects/WEB1001-WebApp/MyFirstApp/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/ertugrul/Projects/MyFirstApp/MyFirstApp
+build_property.MSBuildProjectDirectory = /Users/ertugrul/Projects/WEB1001-WebApp/MyFirstApp
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/ertugrul/Projects/MyFirstApp/MyFirstApp/Views/Home/Index.cshtml]
+[/Users/ertugrul/Projects/WEB1001-WebApp/MyFirstApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ertugrul/Projects/MyFirstApp/MyFirstApp/Views/Home/Privacy.cshtml]
+[/Users/ertugrul/Projects/WEB1001-WebApp/MyFirstApp/Views/Home/Intro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbnRyby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ertugrul/Projects/WEB1001-WebApp/MyFirstApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ertugrul/Projects/MyFirstApp/MyFirstApp/Views/Shared/Error.cshtml]
+[/Users/ertugrul/Projects/WEB1001-WebApp/MyFirstApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ertugrul/Projects/MyFirstApp/MyFirstApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/ertugrul/Projects/WEB1001-WebApp/MyFirstApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ertugrul/Projects/MyFirstApp/MyFirstApp/Views/_ViewImports.cshtml]
+[/Users/ertugrul/Projects/WEB1001-WebApp/MyFirstApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ertugrul/Projects/MyFirstApp/MyFirstApp/Views/_ViewStart.cshtml]
+[/Users/ertugrul/Projects/WEB1001-WebApp/MyFirstApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ertugrul/Projects/MyFirstApp/MyFirstApp/Views/Shared/_Layout.cshtml]
+[/Users/ertugrul/Projects/WEB1001-WebApp/MyFirstApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-fuayooihae
